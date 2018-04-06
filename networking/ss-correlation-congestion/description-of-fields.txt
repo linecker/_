@@ -1,0 +1,28 @@
+rto             retransmission timeout
+rtt             round trip time
+rtt2            
+ato             acknowledgement timeout interval
+mss             maximum segment size
+rcvmss          
+advmss
+cwnd            congestion window
+bytes_acked     
+bytes_received
+segs_out        the total number of segments sent (RFC4898)
+segs_in         the total number of segments received (RFC4898)
+data_segs_out   
+data_segs_in
+bbr_bw
+bbr_mrtt
+bbr_pacing_gain
+bbr_cwnd_gain
+send            
+lastsnd         time in milliseconds since last send
+lastrcv         time in milliseconds since last recv
+lastack         time in milliseconds since last ack
+pacing_rate
+delivery_rate
+app_limited???
+rcv_rtt
+rcv_space  
+minrtt
