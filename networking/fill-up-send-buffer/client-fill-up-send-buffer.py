@@ -10,10 +10,7 @@
     and then block within s.send().
 """
 
-import random
 import socket
-import string
-import time
 
 TCP_IP = '127.0.0.1'
 TCP_PORT = 5005
